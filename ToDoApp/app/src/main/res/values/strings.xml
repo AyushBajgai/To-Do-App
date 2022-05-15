@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sticky Note</string>
+    <string name="subject">Title</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="date">Date</string>
+    <string name="take_note">Take a Note</string>
+    <string name="note_title">Sticky Note</string>
+</resources>
